@@ -109,7 +109,7 @@
 # 🎓 Education & Short Background
 - **M.Tech (Information Technology)** — Indian Institute of Information Technology, Allahabad (Robotics & Machine Intelligence), GPA: 8.2/10.0 (2022–2024)  
 - **B.Tech (Electrical Engineering)** — Vignan Institute of Information Technology, Visakhapatnam, GPA: 8.1/10.0 (2016–2020)  
-- Professional experience across Academia (IFHE), AI internships, and Infosys (SAP & ETL).
+- Professional experience across Academic and development at (IFHE), AI internships, and Infosys (SAP & ETL).
 
 ---
 
