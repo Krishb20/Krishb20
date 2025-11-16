@@ -23,11 +23,17 @@
 # ⚡ About Me
 > “AI is not just code — it’s a reflection of logic, creativity, and curiosity.”
 
-- 🎓 **University Academic Fellow (AI / ML / DS)** — ICFAI Foundation for Higher Education (IFHE), Hyderabad  
-- 🤖 Working on **LLMs, RAG, Agent-based AI, and Computer Vision systems**  
-- 🚀 I convert research papers into functional prototypes and production-ready services  
-- 🌱 Currently exploring **Edge AI, multi-agent LLM automation & LLMOps**  
-- 🧩 I believe in teaching by building — everything is hands-on
+🎓 AI Application Developer & Faculty (AI / ML / DS) — ICFAI Foundation for Higher Education (IFHE), Hyderabad
+
+🏗️ Currently building a Faculty–Student Role-Based Academic Platform with integrated AI Chatbot & Smart Study Assistant
+
+👨‍🏫 Teaching Generative AI, Machine Learning, Python, Data Science, and AI Engineering
+
+🤖 Working on GenAI & Agentic AI mini-projects, LLM pipelines, and AI-driven automation tools
+
+🌱 Exploring LLMOps, Multi-Agent AI Automation, Edge AI, and scalable RAG systems
+
+🧩 Believe strongly in learning by building — every concept is taught hands-on with real implementation
 
 ---
 
